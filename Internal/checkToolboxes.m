@@ -30,7 +30,7 @@ function pass = checkToolboxes ()
 
 image = license('test', 'image_toolbox');
 statistics = license('test', 'Statistics_Toolbox');
-neural = license('test', 'Deep_Learning_Toolbox');
+neural = license('test', 'Neural_Network_Toolbox');
 optim = license('test', 'Optimization_Toolbox');
 glob_optim = license('test', 'gads_toolbox');
 
