@@ -1,4 +1,4 @@
-# SUPERSEGGER README
+# SUPERSEGGER
 
 SuperSegger is a completely automated MATLAB-based trainable image cell
 segmentation, fluorescence quantification and analysis suite written by
