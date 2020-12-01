@@ -21,10 +21,13 @@ Software Requirements
 
 In order to use SuperSegger you need to have the MATLAB software with the following toolboxes:
 Image Processing Toolbox
-Neural Network Toolbox
+Neural Network Toolbox a.k.a. Deep Learning Toolbox
 Statistics and Machine Learning Toolbox
 Global Optimization Toolbox
 Parallel Computing Toolbox (not necessary)
+
+A Warning about missing toolboxes will be issued if any of the above is not found while running SuperSegger. First make sure the above toolboxes are installed (
+use the AddOn Manager in matlab in the "Home" tab.). If all toolboxes are installed but you still get these warnings, make sure that the filesystem paths where the toolboxes are installed are listed under "Set Path" in the matlab GUI.
 
 
 Software Availability and Documentation
